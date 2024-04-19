@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
-
 ## Sobre mim
 
 - 🎓 Bacharel em Ciência da Computação pela Universidade Federal Rural do Rio de Janeiro (2023) e Mestrando em Engenharia de Sistemas e Computação pela Universidade Federal do Rio de Janeiro.
