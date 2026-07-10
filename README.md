@@ -26,8 +26,12 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 <br/>
+
 <a href="https://github.com/lucasonobrega" title="Perfil do Lucas Nóbrega">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasonobrega&show_icons=true" />
+  <img
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api?username=lucasonobrega&show_icons=true"
+  />
 </a>
 
 ## Onde me encontrar
